@@ -7,3 +7,4 @@ saved_models/weights.best.vgg16.hdf5
 bottleneck_features/DogVGG16Data.npz
 bottleneck_features/DogVGG16Data/
 bottleneck_features/
+sample_images/
